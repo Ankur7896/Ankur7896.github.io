@@ -1,0 +1,53 @@
+body, html{
+    max-width: 100%;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+.navbar{
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 22px;
+
+}
+.jumbotron{
+    margin-bottom: 0px;
+    font-color: #111111;
+}
+
+h2{
+    color: grey;
+}
+
+.aboutp{
+    font-size: 24px;
+
+}
+
+.imagea{
+    margin-left: 100px;
+    width: 60%;
+    height: 300px;
+}
+.work1, .work2{
+
+    margin-right: 0px;
+    font-size: 24px;
+}
+.work1i, .work2i{
+    height: 300px;
+    width: 80%;
+    margin: 0 10% 40px 10%;
+}
+.work1p{
+    margin: 0 0px 45px 45px;
+
+}
+.work2p{
+    margin: 0 45px 45px 45px;
+}
+#Resume{
+    text-align: center;
+}
+.contacts{
+    font-size: 24px;
+}
